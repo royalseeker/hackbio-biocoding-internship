@@ -37,12 +37,12 @@ The code begins by defining a dictionary to store information about each team me
 
 ```python
 team_threonine = {
-    "Aparna Padmanabhan": {
-        "slack_username": "Aparna",
-        "email": "aparna2118@gmail.com",
+    "FirstName LastName": {
+        "slack_username": "username",
+        "email": "Email@gmail.com",
         "hobby": "Badminton",
-        "country": "India",
-        "discipline": "Molecular biology",
+        "country": "UK",
+        "discipline": "Bioinfo",
         "programming_language": "Python"
     }  
 }
@@ -56,9 +56,9 @@ The main output of the program is generated using a single print statement that 
 print(
     "Team Threonine Members:\n"
 
-    f"Name: {team_threonine['Aparna Padmanabhan']['slack_username']}\n"
+    f"Name: {team_threonine['FirstName LastName']['slack_username']}\n"
 
-    f"Email: {team_threonine['Aparna Padmanabhan']['email']}\n"
+    f"Email: {team_threonine['FirstName LastName']['email']}\n"
 )
 ```
 ### Formatted Strings
@@ -68,7 +68,7 @@ The code utilizes f-strings to dynamically include member details in the output.
 Example of a formatted string for a team member:
 
 ```python
-f"Slack Username: {team_threonine['Aparna Padmanabhan']['slack_username']}\n"
+f"Slack Username: {team_threonine['FirstName LastName']['slack_username']}\n"
 ```
 
 ### Output Structure
@@ -78,12 +78,12 @@ The final output will look like this:
 
 ```
 Team Threonine Members:
-Name: Aparna Padmanabhan
-Slack Username: Aparna
-Email: aparna2118@gmail.com
+Name: FirstName LastName
+Slack Username: username
+Email: Email@gmail.com
 Hobby: Badminton
-Country: India
-Discipline: Molecular biology
+Country: UK
+Discipline: Bioinfo
 Preferred Programming Language: Python
 ```
 
