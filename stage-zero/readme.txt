@@ -1,1 +1,0 @@
-This is the stage-zero of the hackbio-biocoding-internship
