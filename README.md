@@ -31,8 +31,7 @@ Welcome to the Hackbio Bioinformatics Internship 2025! This internship is design
 
 ## Repository Information
 📌 **Project:** HackBio Internship
-📌 **Field:** Bioinformatics, Computational Biology  
-📌 **Topics:** DNA Translation, Population Growth Simulation, String Analysis  
+📌 **Field:** Bioinformatics, Computational Biology   
 📌 **Programming Language:** Python  
 
 🚀 Happy Coding!
