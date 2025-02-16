@@ -21,7 +21,10 @@ Welcome to the Hackbio Bioinformatics Internship 2025! This internship is design
 ### [Stage Zero](/stage-zero)
 **Topics Covered:** Coding Syntax, Data Types, and Data Structures
 
-### Stage One
+### [Stage One](/stage-one)
+**Topics Covered:** Functions Galore!
+
+### Stage Two
 *(Details will be updated when the stage starts)*
 
 ---
