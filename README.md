@@ -24,8 +24,37 @@ Welcome to the Hackbio Bioinformatics Internship 2025! This internship is design
 ### [Stage One](/stage-one)
 **Topics Covered:** Functions Galore!
 
-### Stage Two
-*(Details will be updated when the stage starts)*
+### [Stage Two](/stage-two)
+**Topics Covered by Task**
+
+**2.1 Microbiology**  
+- Growth Curves  
+- Strain Comparison (KO/KI)  
+- Carrying Capacity  
+- t-test  
+
+**2.3 Botany**  
+- Metabolic Response (ΔM)  
+- Residual Analysis  
+- Outlier Metabolites  
+
+**2.4 Biochemistry & Oncology**  
+- Protein Mutations  
+- SIFT/FoldX Scores  
+- Amino Acid Frequency  
+
+**2.6 Transcriptomics**  
+- Volcano Plot  
+- Differential Expression  
+- Gene Annotation  
+
+**2.7 Public Health**  
+- NHANES Data  
+- Descriptive Statistics  
+- t-test
+
+### [Stage Three](/stage-three)
+
 
 ---
 
