@@ -11,10 +11,6 @@ Welcome to the Hackbio Bioinformatics Internship 2025! This internship is design
 
 - **Rayan Ahmed**: [Github](https://github.com/royalseeker)
 
-- **Eseohe Ugbeva**: N/A
-
-- **Muhsinah**: N/A
-
 
 ## Stages Overview
 
