@@ -21,7 +21,7 @@ The dataset used in this project includes timestamped measurements of various pa
 2. **Stress Analysis**:
    - Identifying times of day when plants are most stressed using time series analysis.
 3. **Model Building and Evaluation**:
-   - Implementing machine learning models (e.g., Decision Trees) for stress classification.
+   - Implementing machine learning models (e.g., Random Forest) for stress classification.
    - Evaluating model performance using various metrics.
 4. **Data Visualization**:
    - Creating visualizations to illustrate stress levels and environmental conditions.
