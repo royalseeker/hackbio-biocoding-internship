@@ -50,7 +50,7 @@ Welcome to the Hackbio Bioinformatics Internship 2025! This internship is design
 - t-test
 
 ### [Stage Three](/stage-three)
-####Final Project
+#### Final Project
 - Plants Health ✅
 - Drug Discovery ⌛
 
